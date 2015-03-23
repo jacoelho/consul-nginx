@@ -1,2 +1,1 @@
-# confd-nginx
 # consul-nginx
